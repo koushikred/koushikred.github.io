@@ -1,7 +1,14 @@
-.section-1 h3{
+ body{
+     background-color: black;
+ }
+ 
+ h3{
     text-align: center;
     color: blue;
     font-family: sans-serif;
     font-weight: bold;
     
+}
+ul li{
+    font-size: 20px;
 }
