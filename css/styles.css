@@ -59,6 +59,9 @@ h3 i{
     text-align: left;
     max-width: 40%;
 }
+.event h3{
+    color: blue;
+}
 
 @media (max-width: 767px) {
     .timeline {
