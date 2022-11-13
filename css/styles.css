@@ -1,16 +1,47 @@
- body{
-     background-color: black;
- }
- 
- h3{
+.navbar-brand{
+ color: orange;
+}
+
+i{
+    font-size: 20px;
+}
+h1,h2{
+    color: orange;
+}
+ul li{
+    font-size: 20px;
+}
+marquee{
+    width: 50%; 
+    color: orange;
+}
+h3{
     text-align: center;
     color: blue;
     font-family: sans-serif;
     font-weight: bold;
     
 }
-ul li{
+h3 i{
+    font-size: 30px;
+}
+#about p{
+ text-align: center;
+}
+#about i{
+    font-size: 30px;
+}
+#projects i{
     font-size: 20px;
+}
+#contact{
+    background-color: #242B2E;
+}
+#contact hr,h3,h6{
+    color: white;
+}
+#contact h6 a{
+    color: orange;
 }
 /* body{margin-top:20px;} */
 .timeline {
