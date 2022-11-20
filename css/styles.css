@@ -15,7 +15,7 @@ marquee{
     width: 50%; 
     color: orange;
 }
-h3{
+#projects h3{
     text-align: center;
     color: blue;
     font-family: sans-serif;
@@ -42,6 +42,13 @@ h3 i{
 }
 #contact h6 a{
     color: orange;
+}
+.repovisit{
+    text-align: center;
+    color: blue;
+    font-family: sans-serif;
+    font-weight: bold;
+    
 }
 /* body{margin-top:20px;} */
 .timeline {
